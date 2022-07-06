@@ -2,8 +2,8 @@ body {
    
 }
 
-.img {
-    max-height: 30px;
+.logo {
+    max-height: 42px;
 }
 
 .NE {
@@ -22,9 +22,18 @@ body {
     font-size: 1.1rem;
 }
 
-.login button a{
+.login-button a{
     text-decoration: none;
     color: black;
     font-weight: 500;
     font-size: 1.1rem;
+}
+.apresentaçao{
+    color: black;
+}
+
+
+
+.text{
+    color: black;
 }
