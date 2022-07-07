@@ -5,6 +5,13 @@ body {
 .logo {
     max-height: 42px;
 }
+.insta{
+    text-decoration: none;
+    font-size: 1.15rem;
+    color: black;
+    font-size: 1.1rem;
+    font-weight: 400;  
+}
 
 .NE {
     margin: 0px;
@@ -14,26 +21,30 @@ body {
     justify-content: center;
     align-items: center;
 
-}
-.nav-link{
+} 
+.nav-link {
     text-decoration: none;
     font-size: 1.15rem;
     color: black;
     font-size: 1.1rem;
+    font-weight: 400;
 }
 
-.login-button a{
+.login-button a {
     text-decoration: none;
     color: black;
     font-weight: 500;
     font-size: 1.1rem;
 }
-.apresentaçao{
+.apresentaçao {
     color: black;
 }
 
 
 
-.text{
+.text  {
     color: black;
+}
+.conteudo{
+    max-height: 15vh;
 }
