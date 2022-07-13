@@ -1,47 +1,6 @@
-body {
-   
+body{
+
 }
-
-.logo {
-    max-height: 42px;
-}
-.insta{
-    text-decoration: none;
-    font-size: 1.15rem;
-    color: black;
-    font-size: 1.1rem;
-    font-weight: 400;  
-}
-
-.NE {
-    margin: 0px;
-    box-sizing: border-box;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
-} 
-.nav-link {
-    text-decoration: none;
-    font-size: 1.15rem;
-    color: black;
-    font-size: 1.1rem;
-    font-weight: 400;
-}
-
-.login-button a {
-    text-decoration: none;
-    color: black;
-    font-weight: 500;
-    font-size: 1.1rem;
-}
-.apresentaçao {
-    color: black;
-}
-
-
-
-.text  {
-    color: black;
+.logo{
+    max-width: 80px;
 }
