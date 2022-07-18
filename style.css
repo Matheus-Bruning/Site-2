@@ -4,3 +4,16 @@ body{
 .logo{
     max-width: 80px;
 }
+.nav-item{
+    margin: 0 15px;
+}
+.nav-lista{
+    display: flex;
+    flex-direction: center;
+    align-items: center;
+}
+.nav-lista-ul{
+    display: flex;
+    justify-content: center;
+    list-style: none
+}
